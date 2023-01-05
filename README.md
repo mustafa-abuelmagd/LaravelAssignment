@@ -5,7 +5,8 @@ the database. The system should include a main categories select box, with unlim
 category (up to 3 levels deep). The system should use Ajax to dynamically update the select boxes as categories and
 subcategories are selected.
 
-## Requirements
+## Requirements  
+
 
 Use any framework to create the project from scratch (such as Laravel, CodeIgniter, etc.).
 Use a one-table design in the database to store all categories and subcategories.
